@@ -75,7 +75,9 @@ The analysis leads to five recommended directors who will lead our project and h
 ## Directory
 [Presentation](https://docs.google.com/presentation/d/1WwVeFClvXEhMXd0kqjGd4kBJ7BZROrgE-fRn1HwY6RU/edit?usp=sharing)
 
-[Data Set]([https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip))
+[Data Set: IM.DB](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip)
+
+[Data Set: Movie Budjet](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/tn.movie_budgets.csv.gz)
 
 ## Repo Files
 ### Cleaned Data Only Folder
