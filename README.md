@@ -73,9 +73,9 @@ The analysis leads to five recommended directors who will lead our project and h
 
 
 ## Directory
-[Presentation]([https://docs.google.com/presentation/d/1Ozf2IYApusxuSufWZ89BW7ldopqlxSKTxPelf5tStxQ/edit?usp=sharing](https://docs.google.com/presentation/d/1WwVeFClvXEhMXd0kqjGd4kBJ7BZROrgE-fRn1HwY6RU/edit#slide=id.g30833dc3674_0_55))
+[Presentation](https://docs.google.com/presentation/d/1WwVeFClvXEhMXd0kqjGd4kBJ7BZROrgE-fRn1HwY6RU/edit?usp=sharing)
 
-[Data Set](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+[Data Set]([https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip))
 
 ## Repo Files
 ### Cleaned Data Only Folder
